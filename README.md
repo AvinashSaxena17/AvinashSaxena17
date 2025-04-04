@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Avinash Saxena</h1>
-<h3 align="center">Passionate about DevOps and Cloud Computing</h3>
+<h3 align="center">DevOps and Cloud Computing Enthusiast with a Passion for Innovation</h3>
 
 - 👯 I’m looking to collaborate on **Cloud native Projects.**
+- 👯 **Aspiring DevOps and Cloud Engineer** with a Strong Interest in Scalable Solutions.
 
 - 📫 How to reach me **saxenaavinash61@gmail.com**
 
