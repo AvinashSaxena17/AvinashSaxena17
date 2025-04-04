@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Avinash Saxena</h1>
 <h3 align="center">Passionate about DevOps and Cloud Computing</h3>
 
-- 🌱 I’m currently learning **Kubernetes.**
+- 🤝 I’m looking for job in **Devops & cloud.**
 
 - 👯 I’m looking to collaborate on **Cloud native Projects.**
-
-- 🤝 I’m looking for job in **Devops & cloud.**
 
 - 📫 How to reach me **saxenaavinash61@gmail.com**
 
